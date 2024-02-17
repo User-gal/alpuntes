@@ -1,0 +1,1 @@
+Se pueden personlaizar de manera más precisas los elementos de un HtML agregando estilos desde el CSS

@@ -1,0 +1,1 @@
+La propiedad float permite que el objeto no bloquee el contenido alrededor, sino que permite que el contenido se pueda acomodar a sus alredor
