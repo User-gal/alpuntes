@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"648e48f5d3306595","type":"text","text":"**Inicio**","x":-401,"y":-414,"width":161,"height":60},
+		{"id":"217ad228470f42bf","type":"text","text":"Obtener Calif1","x":-443,"y":-300,"width":246,"height":50},
+		{"id":"29c69cf014cf08f0","type":"text","text":"Obtener Calif2","x":-443,"y":-220,"width":246,"height":50},
+		{"id":"ada58c52d857af13","type":"text","text":"Promedio = (Calif1 + Calif2)/2","x":-471,"y":-140,"width":303,"height":50,"color":"3"},
+		{"id":"b46fce1b0472f75f","x":-445,"y":-40,"width":250,"height":60,"type":"text","text":"Promedio >=6 ??"},
+		{"id":"dc404192fd9363b0","x":-701,"y":78,"width":250,"height":60,"type":"text","text":"\"Alumno aprobado\""},
+		{"id":"36d367dd97bc8750","x":-227,"y":81,"width":250,"height":60,"type":"text","text":"\"Alumno reprobado\""},
+		{"id":"bf613e130004c5ff","x":-445,"y":280,"width":250,"height":60,"type":"text","text":"**Fin**"}
+	],
+	"edges":[
+		{"id":"4b00adbb82b4e77f","fromNode":"648e48f5d3306595","fromSide":"bottom","toNode":"217ad228470f42bf","toSide":"top"},
+		{"id":"dead3ae8954582d0","fromNode":"217ad228470f42bf","fromSide":"bottom","toNode":"29c69cf014cf08f0","toSide":"top"},
+		{"id":"de792a981af772fe","fromNode":"29c69cf014cf08f0","fromSide":"bottom","toNode":"ada58c52d857af13","toSide":"top"},
+		{"id":"b5772531c2be1e05","fromNode":"ada58c52d857af13","fromSide":"bottom","toNode":"b46fce1b0472f75f","toSide":"top"},
+		{"id":"331e2f9c3d6c636a","fromNode":"b46fce1b0472f75f","fromSide":"left","toNode":"dc404192fd9363b0","toSide":"top","label":"Si"},
+		{"id":"b6a7502cc757ede5","fromNode":"b46fce1b0472f75f","fromSide":"right","toNode":"36d367dd97bc8750","toSide":"top","label":"No"},
+		{"id":"5ba233c3a1b9e1b3","fromNode":"dc404192fd9363b0","fromSide":"bottom","toNode":"bf613e130004c5ff","toSide":"top"},
+		{"id":"3f0e0f31de29e1a8","fromNode":"36d367dd97bc8750","fromSide":"bottom","toNode":"bf613e130004c5ff","toSide":"top"}
+	]
+}

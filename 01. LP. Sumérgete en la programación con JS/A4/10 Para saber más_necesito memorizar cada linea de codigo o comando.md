@@ -1,0 +1,13 @@
+Comprender cada línea de código o comando en detalle es ciertamente una aspiración loable, pero no es necesario memorizar. El desarrollo de software moderno es una tarea compleja, y los lenguajes de programación ofrecen una amplia gama de recursos y bibliotecas.
+
+En lugar de memorizar cada línea, es más valioso entender los conceptos fundamentales detrás de las estructuras de programación y saber cómo utilizar la documentación de manera efectiva.
+
+La documentación de un lenguaje de programación es una herramienta esencial para todos los desarrolladores. No solo proporciona una referencia rápida para la sintaxis y los comandos, sino que también explica los conceptos subyacentes, ofrece ejemplos prácticos y ayuda a comprender los diferentes recursos disponibles.
+
+A través de la documentación, puedes aprender a usar bibliotecas, explorar casos de uso avanzados y comprender las mejores prácticas recomendadas por la comunidad. Esto ahorra tiempo, evita errores y te permite mantenerte actualizado con las últimas actualizaciones del lenguaje.
+
+En lugar de preocuparte por memorizar cada detalle, concéntrate en desarrollar habilidades de resolución de problemas, comprender los principios de diseño de software y aprender a investigar de manera eficiente en la documentación. La capacidad de leer e interpretar la documentación es una habilidad valiosa, ya que te permite aprender nuevos lenguajes y tecnologías de manera efectiva, adaptándote rápidamente a los cambios en el panorama de desarrollo. Por lo tanto, en tu viaje como desarrollador, recuerda que la habilidad de comprender y usar la documentación es tan importante como saber escribir código.
+
+En esta lección, vimos cómo usar la documentación para generar un número aleatorio [a través de la documentación de Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Math/random). Sin embargo, también existe W3Schools (W3S), que es un recurso en línea ampliamente conocido y utilizado para aprender diversas tecnologías de desarrollo web, incluido JavaScript (JS).El sitio web ofrece tutoriales interactivos, ejemplos de código, referencias de sintaxis y conceptos fundamentales relacionados con JavaScript y otros lenguajes web.
+
+Al explorar W3Schools, puedes adquirir una comprensión sólida de los principios de JS, desde lo básico hasta temas más avanzados, como la manipulación del DOM, interacciones con el usuario y solicitudes asíncronas. Es una herramienta valiosa para mejorar tus habilidades en JavaScript, ofreciendo un entorno práctico para experimentar con código, comprender conceptos clave y aplicar el conocimiento adquirido en tus propios proyectos de desarrollo web.
