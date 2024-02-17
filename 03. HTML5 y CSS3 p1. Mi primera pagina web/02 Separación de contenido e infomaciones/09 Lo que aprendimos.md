@@ -1,0 +1,8 @@
+- A definir la estructura básica del HTML.
+- Con la etiqueta `DOCTYPE`, definimos cuál versión de HTML estamos utilizando.
+- La etiqueta `<html>`, marca el contenido a ser renderizado en el navegador. Dentro de esta etiqueta, podemos definir el lenguaje de la página, a través de la propiedad `lang`.
+- Cómo pasar las informaciones del _encoding_ de nuestra página para el navegador, a través de la etiqueta `<meta>` y de la propiedad `charset`.
+- Cómo definir el título de una página, a través de la etiqueta `<title>`.
+- Cómo separar las informaciones que están siendo pasadas para el navegador, utilizando la etiqueta `<head>`.
+- Cómo separar el contenido de la página, utilizando la etiqueta `<body>`.
+- 

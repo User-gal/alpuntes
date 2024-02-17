@@ -1,0 +1,7 @@
+- A configurar la presentación de los textos: alineamiento (`text-align`), tamaño de la fuente (`font-size`), el color del fondo (`background`) y el color del texto (`color`).
+- **CSS inline**: adicionar estilos CSS en la misma línea donde tenemos nuestra etiqueta HTML.
+- La etiqueta **`<style>`**: dentro de esta etiqueta podemos colocar marcaciones de CSS referentes a los elementos que tenemos en nuestro HTML.
+- La presentación del CSS como un archivo externo.
+- Cómo funciona el estilo en cascada del CSS.
+- Cómo importar un archivo externo de CSS dentro de nuestra página HTML.
+- Cómo representar colores en el CSS: 1) a través del nombre del color en inglés, 2) a través de su representación hexadecimal y 3) a través del RGB.

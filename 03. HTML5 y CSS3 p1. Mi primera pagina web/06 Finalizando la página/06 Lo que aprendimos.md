@@ -1,0 +1,2 @@
+- El concepto de encabezado de página y como crearlo.
+- Que no es recomendado crear estilos usando etiquetas, lo ideal es usar selectores de clases para todo.

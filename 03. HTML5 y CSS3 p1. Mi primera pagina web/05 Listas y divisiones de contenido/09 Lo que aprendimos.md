@@ -1,0 +1,6 @@
+- Conocimos las listas (ordenadas y no ordenadas), trabajamos con listas no ordenadas.
+- Vimos que para cada ítem de la lista necesitamos usar la etiqueta `<li>`.
+- El concepto de las clases en el CSS, estas sirven para marcar ítems, solo que podemos replicar los estilos en varios elementos.
+- Cómo referenciar una clase en el CSS.
+- Divisores de contenido, utilizando la etiqueta `<div>`.
+- Los comportamientos `inline` y `block`.

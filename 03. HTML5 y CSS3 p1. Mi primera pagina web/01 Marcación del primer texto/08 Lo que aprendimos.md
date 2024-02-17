@@ -1,0 +1,4 @@
+- Una introducción al HTML y sus etiquetas.
+- Cómo definir el título y los párrafos de un texto, utilizando las etiquetas `<h1>` y `<p>`, respectivamente.
+- Como dar destaque para algunas informaciones de texto, dejándolas en negrito, utilizando la etiqueta `<strong>`.
+- Como dar énfasis para algunas informaciones de texto, dejándolas en itálico, utilizando la etiqueta `<em>`.

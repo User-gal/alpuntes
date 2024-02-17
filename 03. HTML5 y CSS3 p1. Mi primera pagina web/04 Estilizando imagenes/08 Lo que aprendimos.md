@@ -1,0 +1,8 @@
+- Cómo reestructurar nuestro código, removiendo los estilos CSS inline y colocándolos en el archivo CSS externo.
+- Cómo crear un identificador para marcar específicamente un elemento: cómo realizar esa referencia a ese identificador en el CSS.
+- Cómo adicionar una imagen en nuestra página.
+- Cómo ajustar la altura del elemento, a través de la propiedad `height`.
+- Cómo ajustar la anchura del elemento, a través de la propiedad `width`.
+- Cómo ajustar el margen interno del elemento, a través de la propiedad `padding`.
+- Cómo ajustar el margen externo del elemento, a través de la propiedad `margin`.
+- Cómo se conforma normalmente un equipo de front-end hoy en día.
